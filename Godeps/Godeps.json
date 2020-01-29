@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/LibenHailu/admin_admin",
+	"GoVersion": "go1.13",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.4.0-43-g15462c1",
+			"Rev": "15462c1d60d42ecca11d6ef9fec0b0afd5833459"
+		}
+	]
+}
